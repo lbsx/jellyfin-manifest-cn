@@ -21,9 +21,9 @@
 
 4. 在 **存储库 URL** 中，填入以下地址：
 
-   1. intro-skipper
+   * intro-skipper
      ```
-     https://ghfast.top/https://raw.githubusercontent.com/lbsx/jellyfin-plugins/refs/heads/main/intro-skipper-manifest.json
+     https://ghfast.top/https://raw.githubusercontent.com/lbsx/jellyfin-manifest-cn/refs/heads/main/intro-skipper-manifest.json
      ```
 
 5. 点击 **保存**。现在，您可以回到 **目录** 标签页，享受飞速的插件下载体验了！
@@ -40,7 +40,7 @@
 ## ⚠️ 免责声明
 
 *   本项目仅为官方插件清单的镜像，并替换了插件包的下载地址。所有插件的版权和安全性由原作者负责。
-*   本项目不存储任何插件文件，所有下载均指向 jsDelivr CDN 缓存的 Jellyfin 官方 GitHub 仓库。
+*   本项目不存储任何插件文件，所有下载均指向 manifest GitHub 仓库。
 
 ## 🙏 致谢
 
