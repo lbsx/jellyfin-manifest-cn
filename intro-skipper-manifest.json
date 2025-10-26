@@ -1,0 +1,67 @@
+[
+    {
+        "guid": "c83d86bb-a1e0-4c35-a113-e2101cf4ee6b",
+        "name": "Intro Skipper",
+        "overview": "Automatically detect and skip intros in television episodes",
+        "description": "Analyzes the audio of television episodes and detects introduction sequences.",
+        "owner": "AbandonedCart, rlauuzo, jumoog (forked from ConfusedPolarBear)",
+        "category": "MoviesAndShows",
+        "imageUrl": "https://ghfast.top/https://raw.githubusercontent.com/intro-skipper/manifest/main/images/intro-skipper/logo.png",
+        "versions": [
+            {
+                "version": "1.10.11.7",
+                "changelog": "- See the full changelog at [GitHub](https://ghfast.top/https://github.com/intro-skipper/intro-skipper/releases/tag/10.11/v1.10.11.7)\n",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://ghfast.top/https://github.com/intro-skipper/intro-skipper/releases/download/10.11/v1.10.11.7/intro-skipper-v1.10.11.7.zip",
+                "checksum": "a96f17dddc3d5a2d50f3b4e65ca6a113",
+                "timestamp": "2025-10-24T18:55:22Z"
+            },
+            {
+                "version": "1.10.11.6",
+                "changelog": "- See the full changelog at [GitHub](https://ghfast.top/https://github.com/intro-skipper/intro-skipper/releases/tag/10.11/v1.10.11.6)\n",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://ghfast.top/https://github.com/intro-skipper/intro-skipper/releases/download/10.11/v1.10.11.6/intro-skipper-v1.10.11.6.zip",
+                "checksum": "187e15f1cc91a1f2e1c190ffaa299de1",
+                "timestamp": "2025-10-22T08:01:00Z"
+            }
+        ]
+    },
+    {
+        "guid": "6B0E323A-4AEE-4B10-813F-1E060488AE90",
+        "name": "EDL Creator",
+        "overview": "Create .edl files from Media Segments",
+        "description": "These files can be used by Kodi and other players to skip content like commercials and are stored next to your media. Therefore you need write access.",
+        "owner": "Intro Skipper (forked from Endrl)",
+        "category": "MoviesAndShows",
+        "imageUrl": "https://ghfast.top/https://raw.githubusercontent.com/intro-skipper/manifest/main/images/jellyfin-plugin-edl/logo.png",
+        "versions": [
+            {
+                "version": "0.5.0.0",
+                "changelog": "- See the full changelog at [GitHub](https://ghfast.top/https://github.com/intro-skipper/jellyfin-plugin-edl/blob/10.10.2/CHANGELOG.md)",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://ghfast.top/https://github.com/intro-skipper/jellyfin-plugin-edl/releases/download/0.5.0-c0fdd22/Jellyfin.Plugin.Edl-0.5.0.zip",
+                "checksum": "de00b28cbfe51e1d6665083b3e76d6ec",
+                "timestamp": "2025-10-21T21:05:45Z"
+            }
+        ]
+    },
+    {
+        "guid": "e22fb8f5-bc98-4f76-9be4-87de302a97ea",
+        "name": "Chapter Creator",
+        "overview": "Automatically convert Jellyfin media segments into Matroska chapter XML files for enhanced media navigation",
+        "description": "This plugin converts existing media segments (like Intros and Outros) into standardized Matroska chapter XML files",
+        "owner": "Intro Skipper",
+        "category": "MoviesAndShows",
+        "imageUrl": "https://ghfast.top/https://raw.githubusercontent.com/intro-skipper/manifest/main/images/jellyfin-plugin-ms-chapter/logo.png",
+        "versions": [
+            {
+                "version": "0.5.0.0",
+                "changelog": "- See the full changelog at [GitHub](https://ghfast.top/https://github.com/intro-skipper/jellyfin-plugin-ms-chapter/blob/master/CHANGELOG.md)",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://ghfast.top/https://github.com/intro-skipper/jellyfin-plugin-ms-chapter/releases/download/0.5.0-33f16aa/ChapterCreator-0.5.0.zip",
+                "checksum": "ac861165af2a9bdc92109a6d73e34125",
+                "timestamp": "2025-10-21T15:32:37Z"
+            }
+        ]
+    }
+]
